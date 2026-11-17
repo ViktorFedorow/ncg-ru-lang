@@ -50,11 +50,11 @@ growthScreen_desc: |-
   «После отдыха при повышении уровня»: после первого отдыха после повышения уровня.
   После повышения уровня на экране появляется изображение и текст повышения уровня Vanilla.
 growthScreenNever: "Никогда"
-growthScreenRest: «После отдыха»
-growthScreenLevelUp: "После отдыха при повышении уровня»
-requiresUiToolkit: "Требуется мод OpenMW UI Toolkit».
+growthScreenRest: "После отдыха"
+growthScreenLevelUp: "После отдыха при повышении уровня"
+requiresUiToolkit: "Требуется мод OpenMW UI Toolkit."
 
-delayGrowth_name: "Задержка роста на экране»
+delayGrowth_name: "Задержка роста на экране"
 delayGrowth_desc: |-
   Ваши атрибуты, включая удачу, и ваш уровень растут только тогда, когда отображается «Экран роста», как в Vanilla, и ваше здоровье следует за ними. Потери по-прежнему применяются сразу.
   В выключенном состоянии они растут вместе с вашими навыками, и на экране подводятся итоги.
@@ -96,8 +96,8 @@ attrGrowthRateFast: "Быстрый"
 attrGrowthRateFaster: "Быстрее"
 
 growthFactorFromMajorSkills_name: "Фактор роста от основных навыков"
-growthFactorFromMajorSkills_desc: "Процентный коэффициент, применяемый к росту атрибутов, когда он происходит в результате значительного увеличения навыков».
-growthFactorFromMinorSkills_name: "Фактор роста от второстепенных навыков»
+growthFactorFromMajorSkills_desc: "Процентный коэффициент, применяемый к росту атрибутов, когда он происходит в результате значительного увеличения навыков."
+growthFactorFromMinorSkills_name: "Фактор роста от второстепенных навыков"
 growthFactorFromMinorSkills_desc: "Процентный коэффициент, применяемый к росту атрибута, когда он происходит из-за незначительного увеличения навыка.."
 growthFactorFromMiscSkills_name: "Фактор роста от разных навыков"
 growthFactorFromMiscSkills_desc: "Процентный коэффициент, применяемый к росту атрибутов, когда он происходит в результате увеличения различных навыков.."
@@ -125,9 +125,9 @@ showAttributeValueDetails_desc: "Предоставляет подробные �
 # - Luck group
 
 LuckSectionTitle: "АТРИБУТЫ: НАСТРОЙКИ УДАЧИ"
-LuckSectionDesc: "Настройте рост удачи».
+LuckSectionDesc: "Настройте рост удачи."
 
-luckGrowthMode_name: "Режим роста удачи»
+luckGrowthMode_name: "Режим роста удачи"
 luckGrowthMode_desc: |-
   Поскольку ни один навык не управляет Удачей, этот мод предлагает 2 разных способа увеличить ее.
 
@@ -273,7 +273,7 @@ growthScreenGain: "(+{gain})"
 # Tooltips
 
 tooltipGainsNextRest: "На вашем следующем отдыхе"
-tooltipGainsAfterLevelUp: "Отдых на следующем уровне»
+tooltipGainsAfterLevelUp: "Отдых на следующем уровне"
 tooltipGainsLevel: "Уровень {level}"
 tooltipGainsAttribute: "{attribute} +{gain}"
 tooltipAttributePendingRest: "Следующий отдых: +{gain}"
